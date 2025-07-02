@@ -8,10 +8,10 @@
 
 Here are some ideas to get you started:-->
 <h4>About me</h4>
-- 🔭 I’m currently trying to learn a lot of things about programming, database, etc
-- 🌱 I like learning about Java, Python and C++ (for now)
-- 😁 I’m looking for tips to improve (can you give me something?)
-- ⚡ Fun fact: Also I play the guitar
+- 🔭 I’m currently trying to learn a lot of things about programming, database, etc.
+- 🌱 I like learning about Java, Python and C++ (for now).
+- 😁 I’m looking for tips to improve (can you give me something?).
+- ⚡ Fun fact: Also I play the guitar.
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
