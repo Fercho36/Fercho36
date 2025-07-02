@@ -7,7 +7,9 @@
 - :books: I like learning about Java, Python and C++ (for now).
 - :sweat_smile: I’m looking for tips to improve (can you give me something?).
 - :ok_hand: Fun fact: Also I play the guitar 🎸
-- :cross: JESUS LOVES YOU!! 
+
+
+:latin_cross: JESUS LOVES YOU!! 
 
 <!--
 **Fercho36/Fercho36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
