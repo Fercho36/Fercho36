@@ -7,7 +7,6 @@
 - :books: I like learning about Java, Python and C++ (for now).
 - :sweat_smile: I’m looking for tips to improve (can you give me something?).
 - :ok_hand: Fun fact: Also I play the guitar 🎸
-- :latin_cross: JESUS LOVES YOU!! 
 
 <h5>😁Languages:</h5>
 
@@ -16,4 +15,5 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
 </p>
 <!--
-**Fercho36/Fercho36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fercho36/Fercho36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h3>:latin_cross: JESUS LOVES YOU!! </h3>
