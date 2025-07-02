@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fercho <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A student of Computer Systems Engineering from Mexico</h3>
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <!--
 **Fercho36/Fercho36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
