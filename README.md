@@ -4,7 +4,7 @@
 <h4>About Me!!</h4>
 
 - :credit_card: My full name is Fernando Martinez <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" align="right"/>
-- :books: I like learning about Java, Python and C++ (for now).
+- :books: I like learning about Java and Python(for now).
 - :sweat_smile: I’m looking for tips to improve (can you give me something?).
 - :ok_hand: Fun fact: Also I play the guitar 🎸
 
